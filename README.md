@@ -1,2 +1,1 @@
-I am Bonolo Kwena.This is my projects I have done so far with FNB-APP-ACADEMY. I had no idea what coding is and how to code but thi bootcamp really came through for me. I am excited to embark on this new journey of coding 
-I really look forward to learn more.
+Welcome to my Github. I am a learner ,gained skills with the FNB App Academy and willing to learn more in the Tech world.Take a look at the small projects i have done with the Academy
